@@ -22,24 +22,19 @@
  <a href="https://www.patriciosantibanezdev.com/" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://www.twitter.com/patsant_g" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/patricioignaciosg" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/patricio-ignacio-santibanez-gonzalez" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
 </p>
-<br />
+
+## ⚡️ Sobre mí
+
+Tengo cinco años de experiencia en el mundo del desarrollo con 29 años edad. <br /> 
+Especialista y <strong>Sr. Frontend</strong>. Puedo desarrollar aplicaciones y proyectos <strong>Full Stack</strong> con NodeJS y sus frameworks y librerías. <br />
+He sido participe de grandes proyectos llevados a cabo con éxito, el cual, han forjado mi experiencia y camino lleno de nuevas experiencias, equipos y desafíos. <br />
+Expondré una gran variedad de proyectos y aplicaciones en mi <a href="https://www.github.com/PatricioIgnacio/" target="_blank">GitHub</a> el cual espero que les pueda servir.
 
 <h3 align="left">
         <samp>&gt; Frontend
         </samp>
 </h3>
-
-##
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,8 +49,6 @@
         <samp>&gt; Backend
         </samp>
 </h3>
-
-##
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
