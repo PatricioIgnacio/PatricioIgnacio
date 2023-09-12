@@ -26,10 +26,10 @@
 
 ## ⚡️ Sobre mí
 
-Tengo cinco años de experiencia en el mundo del desarrollo con 29 años edad. <br /> 
-Especialista y <strong>Sr. Frontend</strong>. Puedo desarrollar aplicaciones <strong>Full Stack</strong> con NodeJS.<br />
-He sido participe de grandes proyectos llevados a cabo con éxito, el cual, han forjado mi experiencia y camino lleno de nuevas experiencias, equipos y desafíos. <br />
-Expondré una gran variedad de proyectos y aplicaciones en mi <a href="https://www.github.com/PatricioIgnacio/" target="_blank">GitHub</a> el cual espero que les pueda servir.
+Tengo cinco años de experiencia en el mundo del desarrollo.<br /> 
+Especialista y <strong>Sr. Frontend</strong>. Puedo desarrollar aplicaciones <strong>Full Stack</strong> con NodeJS y Java.<br />
+He sido participe de grandes proyectos llevados a cabo con éxito, el cual, han forjado mi experiencia y camino lleno experiencias, grandes equipos y desafíos del cual estoy orgulloso haberlos concretado. <br />
+Expondré una gran variedad de proyectos y aplicaciones en mi <a href="https://www.github.com/PatricioIgnacio/" target="_blank">GitHub</a> el cual espero que les pueda servir y también conocer mi froma de codificar.
 
 <h3 align="left">
         <samp>&gt; Frontend
