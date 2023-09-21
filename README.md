@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Bienvenidos, soy
-                <b><a target="_blank" href="">Patricio Santibáñez</a>.</b>
+                <a target="_blank" href="">Patricio Santibáñez</a>.
         </samp>
 </h3>
 
