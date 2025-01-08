@@ -12,6 +12,7 @@
     「 Software Engineer from: <b>Chile</b> 」
     <br>
     <a href="![image](https://github.com/user-attachments/assets/67590f3c-eb3d-4554-a096-f412bc044b89)">
+            <img src="https://github.com/user-attachments/assets/43ab5907-cb40-46ab-8579-686b140d8183">
   </samp>
 </p>
 
