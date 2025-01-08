@@ -12,7 +12,8 @@
     「 Software Engineer from: <b>Chile</b> 」
     <br>
     <a href="#">
-            <img src="https://github.com/user-attachments/assets/dcf4ceae-13f2-48c3-99d1-256573b4fa0a" target="_blank" width="40" />
+            <img src="https://github.com/user-attachments/assets/dcf4ceae-13f2-48c3-99d1-256573b4fa0a" target="_blank" width="25" />
+            Programador & Analista de Sistemas
     </a>
   </samp>
 </p>
