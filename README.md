@@ -17,7 +17,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/patricio-ignacio-santib%C3%A1%C3%B1ez-gonzalez-69a084197/" target="_blank">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="alsiam"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="alsiam"/>
  </a>
  <a href="https://www.patriciosantibanezdev.com/" target="_blank">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="alsiam" />
