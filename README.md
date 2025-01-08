@@ -27,7 +27,7 @@
 ## ⚡️ Sobre mí
 
 Tengo cinco años de experiencia en el mundo del desarrollo.<br /> 
-Especialista y <strong>Sr. Frontend</strong>. Puedo desarrollar aplicaciones <strong>Full Stack</strong> con NodeJS y Java.<br />
+<strong>Software Engineer</strong>. Puedo desarrollar aplicaciones <strong>Full Stack</strong> con múltiples tecnologías tales como Angular, React, C# y NodeJS.<br />
 He sido participe de grandes proyectos llevados a cabo con éxito, el cual, han forjado mi experiencia y camino lleno experiencias, grandes equipos y desafíos del cual estoy orgulloso haberlos concretado. <br />
 Expondré una gran variedad de proyectos y aplicaciones en mi <a href="https://www.github.com/PatricioIgnacio/" target="_blank">GitHub</a> el cual espero que les pueda servir y también conocer mi froma de codificar.
 
@@ -51,6 +51,7 @@ Expondré una gran variedad de proyectos y aplicaciones en mi <a href="https://w
 </h3>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
