@@ -17,10 +17,10 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/patricio-ignacio-santib%C3%A1%C3%B1ez-gonzalez-69a084197/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="alsiam"/>
  </a>
  <a href="https://www.patriciosantibanezdev.com/" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="alsiam" />
  </a>
 </p>
 
@@ -54,6 +54,7 @@ Expondré una gran variedad de proyectos y aplicaciones en mi <a href="https://w
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 
 <h3 align="left">
         <samp>&gt; Database
