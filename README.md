@@ -7,8 +7,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.patriciosantibanezdev.com/">「 Portfolio Web 」</a>
-                        <br>
+<br>
     「 Software Engineer from: <b>Chile</b> 」
     <br>
           <br />
