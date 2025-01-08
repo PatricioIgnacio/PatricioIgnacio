@@ -11,7 +11,7 @@
     <br>
     「 Software Engineer from: <b>Chile</b> 」
     <br>
-    <br>
+    <a href="![image](https://github.com/user-attachments/assets/67590f3c-eb3d-4554-a096-f412bc044b89)">
   </samp>
 </p>
 
