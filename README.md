@@ -8,14 +8,13 @@
 <p align="center"> 
   <samp>
     <a href="https://www.patriciosantibanezdev.com/">「 Portfolio Web 」</a>
-    <br>
-    「 Software Engineer from: <b>Chile</b> 」
-    <br>
     <a href="#">
             <img src="https://github.com/user-attachments/assets/dcf4ceae-13f2-48c3-99d1-256573b4fa0a" target="_blank" width="40" />
     </a>
-          <br> Programador & Analista de Sistemas
-          <br>
+        <h1>Programador & Analista de Sistemas</h1>
+              <br>
+    「 Software Engineer from: <b>Chile</b> 」
+    <br>
   </samp>
 </p>
 
