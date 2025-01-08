@@ -57,7 +57,7 @@ Expondré una gran variedad de proyectos y aplicaciones en mi <a href="https://w
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 <h3 align="left">
-        <samp>&gt; Base de Datos
+        <samp>&gt; Database
         </samp>
 </h3>
 
